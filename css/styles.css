@@ -137,6 +137,7 @@ margin-bottom: 0;}
   letter-spacing: 0.02em;
   padding-top:188px;
   margin-bottom: 48px;
+  padding-bottom: 292px;
 }
 
 .business-btn {
@@ -148,7 +149,9 @@ margin-bottom: 0;}
   cursor: pointer;
   background: var(--iris, #4d5ae5);
   font-family: inherit;
-  padding-bottom: 188px;
+  margin-top: 48px;
+  display:block;
+  
 }
 
 .business-btn:hover,
@@ -195,6 +198,7 @@ margin-bottom: 0;}
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 .development-menu-list {
 }
